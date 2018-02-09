@@ -1,2 +1,2 @@
 # GodOS
-a simplest operating system for exercising
+a simplest operating system
